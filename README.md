@@ -1,10 +1,10 @@
-## Hi, I'm Roman!
+## 👋 Hi, I'm Roman!
 
-⚛️ Quantum Computing Aficionado <br/>
-🎓 Mathematics and Statistics Student <br/>
 📊 Junior Data Analyst <br/>
-🔬 Quantum Research at [ThinkingBeyond](https://thinkingbeyond.education/beyondquantum/) <br/>
+🎓 Mathematics and Statistics Student <br/>
+⚛️ Quantum Computing Aficionado <br/>
 🥇 1st Place at [Yale Quantum Hackathon](https://www.linkedin.com/posts/romanbagdasarian_team-merqury-won-the-yale-university-x-bluequbit-activity-7319849775539843072-KJtA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEkLXgBpb5pNzTdZ3tge__JWOJvM9bkLQc) <br/>
+🔬 Quantum Research at [ThinkingBeyond](https://thinkingbeyond.education/beyondquantum/) <br/>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
