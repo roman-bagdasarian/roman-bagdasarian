@@ -20,6 +20,8 @@
 ![qBraid](https://img.shields.io/badge/qBraid-%23A020F0.svg?style=for-the-badge&logo=qbraid&logoColor=white)
 ![Quantum Rings](https://img.shields.io/badge/Quantum%20Rings-%2300B386.svg?style=for-the-badge&logo=quantumrings&logoColor=white)
 ![Classiq](https://img.shields.io/badge/Classiq-%23C9FF00.svg?style=for-the-badge&logo=classiq&logoColor=black)
+###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-bagdasarian&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **roman-bagdasarian/roman-bagdasarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
