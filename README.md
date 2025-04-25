@@ -6,9 +6,6 @@
 🔬 Quantum Research at [ThinkingBeyond](https://thinkingbeyond.education/beyondquantum/) <br/>
 🥇 1st Place at [Yale Quantum Hackathon](https://www.linkedin.com/posts/romanbagdasarian_team-merqury-won-the-yale-university-x-bluequbit-activity-7319849775539843072-KJtA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEkLXgBpb5pNzTdZ3tge__JWOJvM9bkLQc) <br/>
 
-[![Roman Bagdasarian's GitHub stats](https://github-readme-stats.vercel.app/api?username=roman-bagdasarian&show_icons=true&theme=synthwave)](https://github.com/roman-bagdasarian/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-bagdasarian&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -18,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![OpenQASM](https://img.shields.io/badge/OpenQASM-000000?style=for-the-badge&logo=quantconnect&logoColor=white)
 ![qBraid](https://img.shields.io/badge/qBraid-%23A020F0.svg?style=for-the-badge&logo=qbraid&logoColor=white)
 ![Quantum Rings](https://img.shields.io/badge/Quantum%20Rings-%2300B386.svg?style=for-the-badge&logo=quantumrings&logoColor=white)
