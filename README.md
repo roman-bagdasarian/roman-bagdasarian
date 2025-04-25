@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi, I'm Roman!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+[![Roman Bagdasarian's GitHub stats](https://github-readme-stats.vercel.app/api?username=roman-bagdasarian&show_icons=true&theme=synthwave)](https://github.com/roman-bagdasarian/github-readme-stats)
+
+⚛️ Quantum Computing Aficionado <br/>
+🎓 Mathematics and Statistics Student <br/>
+📊 Junior Data Analyst <br/>
+🔬 Quantum Research at [ThinkingBeyond](https://thinkingbeyond.education/beyondquantum/) <br/>
+💻 1st Place at [Yale Quantum Hackathon](https://www.linkedin.com/posts/romanbagdasarian_team-merqury-won-the-yale-university-x-bluequbit-activity-7319849775539843072-KJtA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEkLXgBpb5pNzTdZ3tge__JWOJvM9bkLQc) <br/>
 
 <!--
 **roman-bagdasarian/roman-bagdasarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
