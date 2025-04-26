@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Roman!
 
-📊 Junior Data Analyst <br/>
 🎓 Mathematics and Statistics Student <br/>
-⚛️ Quantum Computing Aficionado <br/>
 🥇 1st Place at [Yale Quantum Hackathon](https://github.com/roman-bagdasarian/yquantum) <br/>
 🔬 Quantum Research at [ThinkingBeyond](https://thinkingbeyond.education/beyondquantum/) <br/>
 
