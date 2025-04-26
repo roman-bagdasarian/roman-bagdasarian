@@ -3,7 +3,7 @@
 📊 Junior Data Analyst <br/>
 🎓 Mathematics and Statistics Student <br/>
 ⚛️ Quantum Computing Aficionado <br/>
-🥇 1st Place at [Yale Quantum Hackathon](https://www.linkedin.com/posts/romanbagdasarian_team-merqury-won-the-yale-university-x-bluequbit-activity-7319849775539843072-KJtA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEkLXgBpb5pNzTdZ3tge__JWOJvM9bkLQc) <br/>
+🥇 1st Place at [Yale Quantum Hackathon](https://github.com/roman-bagdasarian/yquantum) <br/>
 🔬 Quantum Research at [ThinkingBeyond](https://thinkingbeyond.education/beyondquantum/) <br/>
 
 # 💻 Tech Stack:
