@@ -17,7 +17,7 @@
 ![OpenQASM](https://img.shields.io/badge/OpenQASM-000000?style=for-the-badge&logo=quantconnect&logoColor=white)
 ![qBraid](https://img.shields.io/badge/qBraid-%23A020F0.svg?style=for-the-badge&logo=qbraid&logoColor=white)
 ![Quantum Rings](https://img.shields.io/badge/Quantum%20Rings-%2300B386.svg?style=for-the-badge&logo=quantumrings&logoColor=white)
-![BlueQubit](https://img.shields.io/badge/Classiq-%23C9FF00.svg?style=for-the-badge&logo=bluequbit&logoColor=blue)
+![BlueQubit](https://img.shields.io/badge/BlueQubit-%23C9FF00.svg?style=for-the-badge&logo=bluequbit&logoColor=blue)
 ![Classiq](https://img.shields.io/badge/Classiq-%23C9FF00.svg?style=for-the-badge&logo=classiq&logoColor=black)
 
 ###
