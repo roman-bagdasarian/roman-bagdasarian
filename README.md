@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Roman!
 
-🎓 Mathematics and Statistics Student <br/>
+🎓 Artificial Intelligence Student <br/>
 ⚛️ 1st Place at [Yale Quantum Hackathon](https://github.com/roman-bagdasarian/yquantum) <br/>
 🔬 Quantum Algorithms Research at [ThinkingBeyond](https://thinkingbeyond.education/beyondquantum/) <br/>
 
