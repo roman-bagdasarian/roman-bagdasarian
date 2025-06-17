@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Roman!
+# 👋 Hi, I'm Roman!
 
 🎓 Artificial Intelligence Student <br/>
 ⚛️ 1st Place at [Yale Quantum Hackathon](https://github.com/roman-bagdasarian/yquantum) <br/>
